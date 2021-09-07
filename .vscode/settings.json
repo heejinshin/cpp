@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.html": "django-txt",
-        "iostream": "cpp",
-        "ostream": "cpp"
-    }
-}
